@@ -60,3 +60,4 @@ Simulated a new match scenario and predicted the winner
 
 ## OUTPUT : 
 
+![Image](https://github.com/user-attachments/assets/97ce0756-08b2-4be7-ac75-6f1e19a48ebf)
